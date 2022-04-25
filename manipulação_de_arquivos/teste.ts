@@ -1,3 +1,0 @@
-interface Teste {
-	seila: string
-}
